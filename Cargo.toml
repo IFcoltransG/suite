@@ -1,0 +1,14 @@
+[package]
+name = "smite"
+version = "0.1.0"
+description = "The Simple Modern Intuitive Text Editor"
+authors = ["IFcoltransG <ifcoltransg@users.noreply.github.com>"]
+repository = "https://github.com/IFcoltransG/smite/"
+keywords = ["text-editor", "editor", "text", "cua", "terminal"]
+edition = "2018"
+license = "MIT"
+exclude = ["debug/", "target/", "**/*.rsk.bk", "build/**/*.o"]
+
+[dependencies.terminal]
+version = "0.2"
+features = ["crossterm-backend"]
