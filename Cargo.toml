@@ -1,9 +1,9 @@
 [package]
-name = "smite"
+name = "suite"
 version = "0.1.0"
-description = "The Simple Modern Intuitive Text Editor"
+description = "The Simple Uncompromisingly Intuitive Text Editor"
 authors = ["IFcoltransG <ifcoltransg@users.noreply.github.com>"]
-repository = "https://github.com/IFcoltransG/smite/"
+repository = "https://github.com/IFcoltransG/suite/"
 keywords = ["text-editor", "editor", "text", "cua", "terminal"]
 edition = "2018"
 license = "MIT"
